@@ -11,3 +11,4 @@ Desenvolvimento de uma sala inteligente para detetar mãos desinfetadas e batime
 - 2x Fontes de Alimentação
 - 1x 74HC4051
 - 1x HC-SR04
+- 1x MQ-3
